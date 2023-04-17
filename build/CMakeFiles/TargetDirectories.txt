@@ -1,3 +1,0 @@
-/home/evans/Coding/RayTracing/build/CMakeFiles/trace.dir
-/home/evans/Coding/RayTracing/build/CMakeFiles/edit_cache.dir
-/home/evans/Coding/RayTracing/build/CMakeFiles/rebuild_cache.dir

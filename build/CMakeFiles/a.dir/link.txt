@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/a.dir/main.cc.o -o a 
