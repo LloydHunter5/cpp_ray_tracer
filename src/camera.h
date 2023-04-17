@@ -9,7 +9,7 @@ class camera {
             auto aspect_ratio = 16.0 / 9.0;
             auto viewport_height = 2.0;
             auto viewport_width = aspect_ratio * viewport_height;
-            auto focal_length = 1.0;
+            auto focal_length = 0.75;
 
             origin = point3(0, 0, 0);
             horizontal = vec3(viewport_width, 0.0, 0.0);

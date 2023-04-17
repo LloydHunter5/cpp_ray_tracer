@@ -202,4 +202,38 @@ CMakeFiles/trace.dir/main.cc.o: /home/evans/Coding/RayTracing/src/main.cc \
  /usr/include/c++/11/ratio /usr/include/c++/11/ctime \
  /usr/include/c++/11/bits/parse_numbers.h /usr/include/c++/11/thread \
  /usr/include/c++/11/bits/std_thread.h \
- /usr/include/c++/11/bits/this_thread_sleep.h
+ /usr/include/c++/11/bits/this_thread_sleep.h \
+ /usr/include/c++/11/execution \
+ /usr/include/c++/11/pstl/glue_execution_defs.h \
+ /usr/include/c++/11/pstl/algorithm_impl.h /usr/include/c++/11/iterator \
+ /usr/include/c++/11/bits/stream_iterator.h \
+ /usr/include/c++/11/functional /usr/include/c++/11/bits/std_function.h \
+ /usr/include/c++/11/unordered_map /usr/include/c++/11/bits/hashtable.h \
+ /usr/include/c++/11/bits/hashtable_policy.h \
+ /usr/include/c++/11/bits/enable_special_members.h \
+ /usr/include/c++/11/bits/node_handle.h \
+ /usr/include/c++/11/bits/unordered_map.h \
+ /usr/include/c++/11/bits/erase_if.h /usr/include/c++/11/bits/stl_algo.h \
+ /usr/include/c++/11/bits/algorithmfwd.h \
+ /usr/include/c++/11/bits/stl_heap.h \
+ /usr/include/c++/11/bits/uniform_int_dist.h \
+ /usr/include/c++/11/algorithm \
+ /usr/include/c++/11/pstl/glue_algorithm_defs.h \
+ /usr/include/c++/11/pstl/execution_impl.h \
+ /usr/include/c++/11/pstl/memory_impl.h \
+ /usr/include/c++/11/pstl/unseq_backend_simd.h \
+ /usr/include/c++/11/pstl/utils.h \
+ /usr/include/c++/11/pstl/parallel_backend_utils.h \
+ /usr/include/c++/11/pstl/parallel_backend.h \
+ /usr/include/c++/11/pstl/parallel_backend_serial.h \
+ /usr/include/c++/11/cstddef /usr/include/c++/11/numeric \
+ /usr/include/c++/11/bits/stl_numeric.h \
+ /usr/include/c++/11/pstl/glue_numeric_defs.h \
+ /usr/include/c++/11/pstl/parallel_impl.h /usr/include/c++/11/atomic \
+ /usr/include/c++/11/pstl/numeric_impl.h \
+ /usr/include/c++/11/pstl/pstl_config.h \
+ /usr/include/c++/11/pstl/algorithm_fwd.h \
+ /usr/include/c++/11/pstl/glue_algorithm_impl.h \
+ /usr/include/c++/11/pstl/numeric_fwd.h \
+ /usr/include/c++/11/pstl/glue_numeric_impl.h \
+ /usr/include/c++/11/pstl/glue_memory_impl.h
